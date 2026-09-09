@@ -1,12 +1,12 @@
 # Ibrahim Alohali
 
-CS graduate based in Al Qassim, Saudi Arabia. Focused on data engineering — pipelines, warehouse modeling, and data quality.
+CS graduate based in Al Qassim, Saudi Arabia. Focused on data engineering pipelines, data analysis, and data quality.
 
 Open to remote work or roles in the Qassim region.
 
 ## What I work with
 
-Python, PostgreSQL, SQL, Docker, pytest, pandas, scikit-learn
+Python, PostgreSQL, SQL, Docker, pytest, pandas, powerbi
 
 ## Projects
 
