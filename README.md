@@ -1,17 +1,39 @@
 # Ibrahim Alohali
 
-CS graduate based in Al Qassim, Saudi Arabia. Focused on data engineering pipelines, data analysis, and data quality.
+Computer Science graduate from Qassim University, interested in data analysis and
+data engineering. I work on turning source data into traceable tables, clear reports,
+and results whose assumptions can be explained.
 
-Open to remote work or roles in the Qassim region.
+Based in Unaizah, Al Qassim, Saudi Arabia. Open to junior data analyst and data
+engineering roles in Qassim or remotely.
 
-## What I work with
+## Tools
 
-Python, PostgreSQL, SQL, Docker, pytest, pandas, powerbi
+SQL, PostgreSQL, Python, pandas, Power BI, Power Query, DAX, Docker, and pytest.
 
-## Projects
+## Selected projects
 
-**[demand-forecast-data-platform](https://github.com/ibrahim-alohali/demand-forecast-data-platform)** — A data pipeline that processes 1M+ retail transactions through layered PostgreSQL schemas (raw → staging → marts → features). Includes 11 data quality contracts, a YAML feature registry, and a baseline forecasting model. Built with Python, PostgreSQL, and Docker.
+### Café Sales: data quality and reporting
 
-## What I'm looking for
+[Power BI dashboards](https://github.com/ibrahim-alohali/cafe-sales-dq-dashboards)
+· [Python API](https://github.com/ibrahim-alohali/cafe-sales-dq-api)
 
-Junior data engineering, analytics engineering, or ML pipeline roles. I care about writing pipelines that are tested, documented, and explainable.
+An analysis of 10,000 synthetic café transactions: what can be recovered from the
+available evidence, and what remains unknown? The reports distinguish 1,951 recovered
+cells from unresolved labels and nulls. The companion API exposes cleaning decisions,
+before/after metrics, and twelve SQL data contracts.
+
+### Demand Forecast Data Platform
+
+[Repository](https://github.com/ibrahim-alohali/demand-forecast-data-platform)
+
+A Python and PostgreSQL pipeline for UCI Online Retail II, organised into raw,
+staging, analytical, and feature tables. It forecasts the next day's recorded sales
+using past observations and compares a linear model with previous-day and
+previous-weekday baselines. The repository explains data exclusions, evaluation,
+tests, and limitations.
+
+My other repositories preserve university coursework and AI/robotics training
+exercises, with their original scope described in each README.
+
+[Connect on LinkedIn](https://www.linkedin.com/in/ibrahim-alohali/)
