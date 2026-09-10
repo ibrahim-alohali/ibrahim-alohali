@@ -1,8 +1,7 @@
 # Ibrahim Alohali
 
 Computer Science graduate from Qassim University, interested in data analysis and
-data engineering. I work on turning source data into traceable tables, clear reports,
-and results whose assumptions can be explained.
+data engineering.
 
 Based in Unaizah, Al Qassim, Saudi Arabia. Open to junior data analyst and data
 engineering roles in Qassim or remotely.
