@@ -13,16 +13,6 @@ SQL, PostgreSQL, Python, pandas, Power BI, Power Query, DAX, Docker, and pytest.
 
 ## Selected projects
 
-### Café Sales: data quality and reporting
-
-[Power BI dashboards](https://github.com/ibrahim-alohali/cafe-sales-dq-dashboards)
-· [Python API](https://github.com/ibrahim-alohali/cafe-sales-dq-api)
-
-An analysis of 10,000 synthetic café transactions: what can be recovered from the
-available evidence, and what remains unknown? The reports distinguish 1,951 recovered
-cells from unresolved labels and nulls. The companion API exposes cleaning decisions,
-before/after metrics, and twelve SQL data contracts.
-
 ### Demand Forecast Data Platform
 
 [Repository](https://github.com/ibrahim-alohali/demand-forecast-data-platform)
